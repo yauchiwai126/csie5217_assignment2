@@ -1,0 +1,29 @@
+<!-- filepath: /Users/marcoyau/Downloads/IM5068 - Homework 3/T13902208_HW3/2/views/index.ejs -->
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Weather App</title>
+  <link rel="stylesheet" href="/style.css">
+</head>
+
+<body>
+  <div class="container">
+    <h1>Weather App</h1>
+    <form action="/fetchWeather" method="post">
+      <input type="text" name="city" id="city-input" placeholder="Enter city name">
+      <button type="submit" id="search-button">Search</button>
+    </form>
+    <div id="weather-info">
+      <% if (weatherInfo) { %>
+        <p>
+          <%= weatherInfo %>
+        </p>
+        <% } %>
+    </div>
+  </div>
+</body>
+
+</html>

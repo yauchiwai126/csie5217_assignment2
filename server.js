@@ -4,7 +4,7 @@ import express from 'express';
 import fetch from 'node-fetch';
 
 const app = express();
-const port = 2500;
+const port = process.env.PORT;
 
 app.use(express.static('public'));
 app.use(bodyParser.urlencoded({ extended: false }));

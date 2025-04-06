@@ -12,3 +12,5 @@ Repo創建過程及說明：
 7.	Choose a license設定為None。
 8.	點擊Create repository。
 9.	Repository已經創建。
+Pull Request
+- 以hw1-p此branch對main創立Pull Request

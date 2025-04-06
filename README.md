@@ -14,3 +14,5 @@ Repo創建過程及說明：
 9.	Repository已經創建。
 Pull Request
 - 以hw1-f此branch對main創立Pull Request
+- 以hw1-p此branch對main創立Pull Request
+- 上述任何一個PR內有留言互動，針對程式碼變動留言

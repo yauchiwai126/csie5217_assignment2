@@ -6,7 +6,7 @@
 ## Repo操作
 ### Repo創建過程及說明：
 1.	先登入GitHub。
-2.	點擊New  Create a new repository。
+2.	點擊New > Create a new repository。
 3.	輸入Repository Name為csie5217_assignment2。
 4.	設定為Public。
 5.	勾選Add a README file。
@@ -31,7 +31,7 @@
 4.	在Add a description輸入「創一個issue，open狀態」。
 5.	點擊Create。
 ### 有Issue Template
-1.	到Settings  General  Features  Issues點擊Set up templates。
+1.	到Settings > General > Features > Issues點擊Set up templates。
 2.	在Add template選擇Bug report。
 3.	點擊Propose changes。
 4.	點擊Commit changes。

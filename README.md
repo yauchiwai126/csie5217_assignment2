@@ -13,4 +13,4 @@ Repo創建過程及說明：
 8.	點擊Create repository。
 9.	Repository已經創建。
 Pull Request
-- 以hw1-p此branch對main創立Pull Request
+- 以hw1-f此branch對main創立Pull Request
